@@ -1,0 +1,9 @@
+---
+- name: Copiando el fichero fileA a /tmp
+  copy: src=files/fileA dest=/tmp/fileA
+
+- name: Copiando el fichero fileB a /tmp
+  copy: src=files/fileB dest=/tmp/fileB
+~                                                                               
+~                                                                               
+~                                            
